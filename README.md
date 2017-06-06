@@ -18,11 +18,15 @@ With some lines of code, developers are now able to integrate existing web servi
 
 In this article series we'll leverage the [Alexa Skill SDK (ASK)](http://phx.corporate-ir.net/phoenix.zhtml?c=176060&p=irol-newsArticle&ID=2062551) to build Alexa skills providing news towards the end-user. Amazon’s voice service interacts with web services hosted in the Red Hat Mobile Application Platform (RHMAP).
 
+<br>
+
 > Skills come in different flavours:
 >
 > 1. *Flash Briefing*: These skills provide original content for users’ flash briefings.
 > 2. *Smart Home*: With these skills, users can control cloud-enabled smart-home devices like lights and thermostats.
 > 3. *Custom*: These skills can handle just about any type of request.
+
+<br>
 
 ### Part 1: Starting with a Flash Briefing Skill
 
@@ -38,6 +42,8 @@ This can easily be done by utilising the RHMAP API Mapper Service template.
 
 [Read more ...](https://github.com/mmetting/Building-an-Alexa-skill-with-Red-Hat-MAP---Part-I)
 
+<br>
+
 ### Part 2: Upgrading to a Custom Skill
 
 Continuing our journey to build Alexa Skills, we’ll leverage the Alexa Skill SDK (ASK) to create a Custom Skill providing news towards our end-user.
@@ -49,6 +55,8 @@ To include custom user interactions, a Custom Skill is required: Developers defi
 Let’s extend our use case to build a Custom Skill to retrieve the desired RSS feeds.
 
 [Read more ...](https://github.com/mmetting/Building-an-Alexa-skill-with-Red-Hat-MAP---Part-II)
+
+<br>
 
 ### Part 3: Host your own Skill with RHMAP
 
