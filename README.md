@@ -71,3 +71,7 @@ Since RHMAP can expose web services to the internet and has the ability to inclu
 - Use existing infrastructure and resources
 
 [Read more ...](https://github.com/mmetting/Building-an-Alexa-skill-with-Red-Hat-MAP---Part-I)
+
+## RHMAP-BPM-Integration Using Sync
+This is a [blog post](http://www.opensourcerers.org/red-hat-map-jboss-bpm-suite-integration-using-sync-framework/) that discuss how to make a mobile app getting regular updates on changes made in tasks and processes in Red Hat JBoss BPM, and how the `$fh.sync` framework can be used together with the [fh-connector-bpm](https://github.com/sebastianfaulhaber/fh-connector-bpm).
+This is a simple way of building a process driven, asynchronous mobile app that can be used to push tasks to for example field personnel, call center staff etc.
