@@ -76,6 +76,6 @@ Since RHMAP can expose web services to the internet and has the ability to inclu
 This is a [blog post](http://www.opensourcerers.org/red-hat-map-jboss-bpm-suite-integration-using-sync-framework/) that discuss how to make a mobile app getting regular updates on changes made in tasks and processes in Red Hat JBoss BPM, and how the `$fh.sync` framework can be used together with the [fh-connector-bpm](https://github.com/sebastianfaulhaber/fh-connector-bpm).
 This is a simple way of building a process driven, asynchronous mobile app that can be used to push tasks to for example field personnel, call center staff etc.
 
-## RHMAP-BPM-Integration Using Sync
+## Deploying Raincatcher on Red Hat Mobile Application Platform
 This is a [blog post](http://www.opensourcerers.org/deploying-raincatcher-red-hat-mobile-application-platform/) that demonstrates how to integrate and deploy the [Feedhenry Raincatcher project](http://raincatcher.feedhenry.io/) on RHMAP.
 Raincatcher is a Workforce Management (WFM) solution that includes a mobile hybrid app, a management portal web app and a server that manages synchronization of work orders between the portal and the mobile apps. The synchronization technology is built on the Feedhenry Datasync framework which is available within RHMAP using the $fh.sync API.
